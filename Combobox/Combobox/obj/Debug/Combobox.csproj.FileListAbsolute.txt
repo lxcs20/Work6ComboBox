@@ -1,0 +1,10 @@
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\bin\Debug\Combobox.exe.config
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\bin\Debug\Combobox.exe
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\bin\Debug\Combobox.pdb
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\obj\Debug\Combobox.csproj.AssemblyReference.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\obj\Debug\Combobox.Form1.resources
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\obj\Debug\Combobox.Properties.Resources.resources
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\obj\Debug\Combobox.csproj.GenerateResource.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\obj\Debug\Combobox.csproj.CoreCompileInputs.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\obj\Debug\Combobox.exe
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Combobox\Combobox\obj\Debug\Combobox.pdb
